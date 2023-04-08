@@ -1,4 +1,3 @@
-{version:0.1}
+{version:0.2}
 {hwid:3390365890|name:F3rd}
-
 {hwid:4770769056|name:Какой захочешь}
