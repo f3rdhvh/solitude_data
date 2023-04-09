@@ -1,1 +1,3 @@
-{"undefined":{"name":"F3rd","hwid":"2312312","banned":false,"builds":["beta"]}}
+{
+  "version" : "0.1"
+ }
