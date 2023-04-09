@@ -1,1 +1,0 @@
-{"0":{"name":"F3rd","hwid":"123123","banned":false,"builds":["live","beta"]},"versions":{"beta":0.2,"live":0.2}}
