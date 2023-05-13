@@ -1,1 +1,1 @@
-{"users":{"0":{"name":"F3rd","hwid":"3433305148","uid":"5831","banned":false,"builds":["live"]}},"bans":{},"versions":{"scripts":{"live":"0.1","beta":"0.1","debug":"0.1"},"loader":"0.1"}}
+{"users":{"0":{"name":"F3rd","hwid":"3433305148","uid":"5831","banned":false,"builds":["live"]},"1":{"name":"NeQu","hwid":"3369458262","uid":"6600","banned":false,"builds":["debug"]}},"bans":{},"versions":{"scripts":{"live":"0.1","beta":"0.1","debug":"0.1"},"loader":"0.1"}}
